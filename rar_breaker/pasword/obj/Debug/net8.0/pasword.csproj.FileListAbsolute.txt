@@ -1,0 +1,14 @@
+C:\Users\mehme\source\repos\pasword\pasword\bin\Debug\net8.0\pasword.exe
+C:\Users\mehme\source\repos\pasword\pasword\bin\Debug\net8.0\pasword.deps.json
+C:\Users\mehme\source\repos\pasword\pasword\bin\Debug\net8.0\pasword.runtimeconfig.json
+C:\Users\mehme\source\repos\pasword\pasword\bin\Debug\net8.0\pasword.dll
+C:\Users\mehme\source\repos\pasword\pasword\bin\Debug\net8.0\pasword.pdb
+C:\Users\mehme\source\repos\pasword\pasword\obj\Debug\net8.0\pasword.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehme\source\repos\pasword\pasword\obj\Debug\net8.0\pasword.AssemblyInfoInputs.cache
+C:\Users\mehme\source\repos\pasword\pasword\obj\Debug\net8.0\pasword.AssemblyInfo.cs
+C:\Users\mehme\source\repos\pasword\pasword\obj\Debug\net8.0\pasword.csproj.CoreCompileInputs.cache
+C:\Users\mehme\source\repos\pasword\pasword\obj\Debug\net8.0\pasword.dll
+C:\Users\mehme\source\repos\pasword\pasword\obj\Debug\net8.0\refint\pasword.dll
+C:\Users\mehme\source\repos\pasword\pasword\obj\Debug\net8.0\pasword.pdb
+C:\Users\mehme\source\repos\pasword\pasword\obj\Debug\net8.0\pasword.genruntimeconfig.cache
+C:\Users\mehme\source\repos\pasword\pasword\obj\Debug\net8.0\ref\pasword.dll
